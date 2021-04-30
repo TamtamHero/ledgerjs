@@ -89,7 +89,16 @@ const data =
         "selectors": ["0xa0712d68", "0xdb00x6a75", "0x852a12e3"]
       }
     ]
-  }
+  },
+  "0x1bd435f3c054b6e901b7b108a0ab7617c808677b": {
+    "contractName": "Paraswap",
+    "plugins": [
+      {
+        "name": "Paraswap",
+        "selectors": ["0x58b9d179", "0x0863b7ac", "0xcfc0afeb", "0x8f00eccb", "0xec1d21dd", "0xf9355f72", "0x33635226", "0xa27e8b6b", "0xf95a49eb"]
+      }
+    ]
+  },
 };
 
 
